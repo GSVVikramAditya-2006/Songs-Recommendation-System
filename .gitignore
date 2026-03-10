@@ -1,0 +1,12 @@
+.env
+__pycache__/
+*.pyc
+*.pkl
+*.db
+node_modules/
+.DS_Store
+dist/
+build/
+models/*.pkl
+data/raw/
+data/processed/
